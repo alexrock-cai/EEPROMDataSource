@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/jdk1.7.0_55"/>
+	<classpathentry kind="lib" path="/Users/rocky/Downloads/druid-1.0.9.jar"/>
+	<classpathentry kind="lib" path="/Users/rocky/Downloads/c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="/amphenolapps/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.20-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
